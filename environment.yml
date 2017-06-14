@@ -1,0 +1,43 @@
+name: musician_website
+channels:
+- defaults
+dependencies:
+- astroid=1.4.9=py36_0
+- decorator=4.0.11=py36_0
+- django=1.10.5=py36_0
+- ipython=6.1.0=py36_0
+- ipython_genutils=0.2.0=py36_0
+- isort=4.2.14=py36_0
+- jedi=0.10.2=py36_2
+- lazy-object-proxy=1.2.2=py36_0
+- libpq=9.5.4=0
+- openssl=1.0.2l=0
+- path.py=10.3.1=py36_0
+- pexpect=4.2.1=py36_0
+- pickleshare=0.7.4=py36_0
+- pip=9.0.1=py36_1
+- postgresql=9.5.4=0
+- prompt_toolkit=1.0.14=py36_0
+- psycopg2=2.7.1=py36_0
+- ptyprocess=0.5.1=py36_0
+- pygments=2.2.0=py36_0
+- pylint=1.6.4=py36_1
+- pymongo=3.3.0=py36_0
+- python=3.6.1=2
+- readline=6.2=2
+- setuptools=27.2.0=py36_0
+- simplegeneric=0.8.1=py36_1
+- six=1.10.0=py36_0
+- sqlite=3.13.0=0
+- tk=8.5.18=0
+- traitlets=4.3.2=py36_0
+- wcwidth=0.1.7=py36_0
+- wheel=0.29.0=py36_0
+- wrapt=1.10.10=py36_0
+- xz=5.2.2=1
+- zlib=1.2.8=3
+- pip:
+  - ipython-genutils==0.2.0
+  - prompt-toolkit==1.0.14
+prefix: /home/sean/anaconda3/envs/musician_website
+
